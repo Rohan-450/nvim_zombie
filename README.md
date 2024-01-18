@@ -2,7 +2,8 @@
 Personalized minimalist neovim configuration
 
 ## Screenshots
-
+![View_1](https://github.com/Rohan-450/nvim_zombie/assets/124903208/9afaed16-6c95-4f13-9149-b7f658e31df7)
+![View_2](https://github.com/Rohan-450/nvim_zombie/assets/124903208/0612a338-2ec8-4943-ad18-5b3f336f4897)
 
 
 ## Installation
